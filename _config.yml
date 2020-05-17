@@ -12,7 +12,7 @@ author: Sivachaitanya
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "Home"
+  Home: "index.html"
   Archives:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
