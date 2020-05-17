@@ -14,8 +14,8 @@ author: Sivachaitanya
 navbar-links:
   Home: "index.html"
   Archives:
-  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
-  #  - Learn markdown: "https://www.markdowntutorial.com/"
+    - Categories: "tags.html"
+   # - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 About:
 # --- Logo --- #
