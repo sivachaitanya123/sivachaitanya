@@ -10,4 +10,4 @@ My name is Sivachaitanya Yarrakalva. A Passionate Data Science professional with
 
 In my spare time, I love teaching my son, go to gym, and explore the outdoors.
 
-You can reach me through email: sivachaitanya.y@outlook.com
+You can reach me through email: sivachaitanyay@outlook.com
