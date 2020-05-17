@@ -12,7 +12,7 @@ author: Sivachaitanya
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "sivachaitanya.com"
+  Home: ""
   Archives:
     - Categories: "tags"
    # - Learn markdown: "https://www.markdowntutorial.com/"
