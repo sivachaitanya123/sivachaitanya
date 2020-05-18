@@ -6,8 +6,8 @@ subtitle: Data Science Professional
 
 Firstofall, Thank you for visiting my page! 
 
-My name is Sivachaitanya Yarrakalva. A Passionate Data Science professional with proven sucess in applying Machine Learning concepts in day to day work. 
+My name is Sivachaitanya. A Passionate Data Science professional with proven sucess in applying Data Science concepts in day to day work. 
 
-In my spare time, I love teaching my son, go to gym, and explore the outdoors.
+I love teaching my son, go to gym, and hang out with family.
 
-You can reach me through email: sivachaitanyay@outlook.com
+You can email me at sivachaitanyay@outlook.com
