@@ -40,12 +40,12 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "sivachaitanyay@outlook.com"
-  facebook: yarrakalva
+  #facebook: yarrakalva
   github: sivachaitanya123
   #twitter: daattali
   rss: true
 #  reddit: yourname
-  linkedin: sivachaitanya-yarrakalva
+#  linkedin: sivachaitanya-yarrakalva
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -64,8 +64,8 @@ social-network-links:
 # Select which social network share links to show in posts
 share-links-active:
   #twitter: false
-  facebook: true
-  linkedin: true
+ # facebook: true
+ # linkedin: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -86,7 +86,7 @@ navbar-text-col: "#FFFFF0"
 navbar-border-col: "#EAEAEA"
 page-col: "#FFFFFF"
 link-col: "#FFFAFA"
-link-text-col: "#FFFAFA"
+dropdown-text-col: "#FFFAFA"
 hover-col: "#EE82EE"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
